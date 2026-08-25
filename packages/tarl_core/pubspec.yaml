@@ -1,0 +1,11 @@
+name: tarl_core
+description: Level definitions, item generation and grouping logic for TaRL numeracy assessment.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^4.0.0

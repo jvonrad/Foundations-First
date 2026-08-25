@@ -1,0 +1,3 @@
+# Briding Education Inequality in Kenya 
+
+We leverage Artificial Intelligence to automate the evaluation side of Teaching at the Right Level (TaRL), s.t. teachers can focus on teaching each student at their level, while not spending enormous time to assess the students. For this we build an application - Foundations First - which uses a speech recognition model and Tiny Aya 4B to automatically assess the reading comprehension level of each student!
